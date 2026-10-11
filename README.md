@@ -27,7 +27,7 @@ FROM CustomerRevenue
 WHERE Revenue &gt; (SELECT AVG(Revenue) FROM CustomerRevenue)
 ORDER BY Revenue DESC;
 </code></pre>
-  <p><strong>Explanation:</strong> This query builds a temporary table of customer revenues, then selects only those above the average and sorts them by highest spend. It answers “Who are the top customers spending more than average?”. It because it neatly combines joins, aggregation, a CTE, and a subquery for clear insights.</p>
+  <p><strong>Explanation:</strong> This query builds a temporary table of customer revenues, then selects only those above the average and sorts them by highest spend. It answers “Who are the top customers spending more than average?”. Choose this because it neatly combines joins, aggregation, a CTE, and a subquery for clear insights.</p>
 
   <hr>
   <h2>Section 3: A Mistake or Struggle</h2>
