@@ -1,10 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>SQL Learning Journal #2</title>
-</head>
-<body>
   <h1>SQL Learning Journal #2</h1>
   <p><em>Reflecting on what I learned using SQL for the Chinook database</em></p>
   <hr>
