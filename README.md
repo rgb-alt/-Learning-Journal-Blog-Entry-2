@@ -1,9 +1,4 @@
-SQL Learning Journal #2
-------------------------------------------------------------
 
-Reflecting on what I learned using SQL for the Chinook database
-
-------------------------------------------------------------
 <!DOCTYPE html>
   <h1>SQL Learning Journal #2</h1>
   <p><em>Reflecting on what I learned using SQL for the Chinook database</em></p>
